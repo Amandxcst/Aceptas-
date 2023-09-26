@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que Buenisima vro vamos a manquear de chill a decir que si uwu')
+    alert('Yei sabía que me ibas a decir que siiii ya eres mío pa siempre')
 });
 
 const noBtn = document.querySelector('#noBtn');
